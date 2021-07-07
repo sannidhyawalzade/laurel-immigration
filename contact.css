@@ -40,10 +40,13 @@ nav{
     font-size: 14px;
 }
 
-a:hover{
+.nav-links a:hover{
     background-color: firebrick;
 }
 
+.contact a:hover{
+    background-color: aqua;
+}
 
 
 
