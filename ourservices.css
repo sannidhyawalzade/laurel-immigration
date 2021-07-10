@@ -60,19 +60,28 @@ span{
     font-family: 'EB Garamond', serif;
 }
   
+aside{
+    float: right;
+    width: 70%;
+    height: 300px;
+    text-align: center;
+    padding-right: 4mm;
+}
 
-
-
+p{
+    margin-bottom: 5mm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-size: 20;
+    padding-bottom: 5mm;
+}
 
 h1{
-    font-size: 200;
+    font-size: 100px;
     text-align: center;
 }
 
-#div1{
-    padding-top: 10%;
-    background-color: white;
-}
 
 .burger{
     display: none;
@@ -217,27 +226,19 @@ h1{
     }
 }
 p{
-    font-size: 20px;
+    font-size: 30px;
 }
 
-.contact a:hover{
-    background-color: aqua;
+div1{
+    align-items: center;
+    padding-top: 40px;
 }
 
+.servies a{
+    align-items: center;
+    color: black;
+}
 
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
+.service a:hover{
+    background-color: beige;
+}
