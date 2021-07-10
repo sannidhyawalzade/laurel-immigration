@@ -216,6 +216,12 @@ h1{
         transform: scale3d(0.3, 0.3, 0.3);
     }
 }
+
+.form{
+    align-items: center;
+    font-size: 20px;
+}
+
 p{
     font-size: 20px;
 }
